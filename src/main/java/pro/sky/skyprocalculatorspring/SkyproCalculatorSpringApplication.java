@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SkyproCalculatorSpringApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(SkyproCalculatorSpringApplication.class, args);
 	}
 
